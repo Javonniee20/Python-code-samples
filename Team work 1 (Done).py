@@ -14,3 +14,5 @@ elif year > 1900 and year < 2020:
     print ("That's totally the present!")
 else:
     print ("Far out, that's the future!!")
+
+# The posted codes are totally irrelevant to the team assignment program. Check the team assignment program specification. _Sunhwa Nam
